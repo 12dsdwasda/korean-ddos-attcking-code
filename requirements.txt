@@ -1,0 +1,8 @@
+scapy
+typing
+List
+Fore
+colorama
+socket
+random
+asyncio
